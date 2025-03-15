@@ -1,0 +1,101 @@
+Date,Customer_ID,Product_Category,Sales_Amount,Quantity_Sold,Payment_Method
+2023-03-15,3542,Groceries,342.8,4,Cash
+2023-08-14,5928,Electronics,299.84,2,Cash
+2023-01-06,3695,Furniture,56.06,5,Credit Card
+2023-04-16,1175,Electronics,183.59,5,Debit Card
+2023-09-17,8732,Clothing,159.44,4,Wallet
+2023-09-08,7638,Toys,327.67,4,Cash
+2023-05-02,3262,Electronics,365.66,2,UPI
+2023-10-27,1411,Toys,418.21,3,Debit Card
+2023-11-18,4222,Groceries,443.04,5,UPI
+2023-09-05,2106,Clothing,50.78,3,Debit Card
+2023-12-23,4453,Furniture,456.07,1,Credit Card
+2023-04-03,2920,Toys,323.84,1,Debit Card
+2023-01-06,2520,Groceries,255.75,3,Wallet
+2023-01-27,6489,Groceries,288.11,3,Wallet
+2023-10-15,1597,Groceries,322.72,5,Credit Card
+2023-11-08,9696,Clothing,413.7,5,Wallet
+2023-05-31,3877,Groceries,295.08,4,Cash
+2023-05-31,8699,Toys,238.53,1,UPI
+2023-12-28,7506,Furniture,434.32,3,Credit Card
+2023-01-09,9030,Toys,14.52,4,UPI
+2023-05-06,2512,Electronics,210.11,3,Credit Card
+2023-04-26,6859,Groceries,335.96,1,Credit Card
+2023-03-29,5827,Toys,50.5,2,Debit Card
+2023-04-13,8821,Clothing,302.57,3,Cash
+2023-06-17,4375,Electronics,99.5,4,Cash
+2023-12-19,4215,Electronics,50.56,1,Credit Card
+2023-05-27,9716,Furniture,411.65,4,Debit Card
+2023-05-29,6024,Furniture,182.97,5,UPI
+2023-06-06,7094,Clothing,452.3,1,Credit Card
+2023-08-08,3033,Electronics,124.91,3,Wallet
+2023-08-08,4108,Clothing,404.36,3,Debit Card
+2023-10-30,3651,Electronics,181.84,1,UPI
+2023-05-07,2690,Toys,91.06,4,Cash
+2023-08-14,9327,Toys,323.57,1,Debit Card
+2023-09-13,9741,Furniture,133.08,1,Debit Card
+2023-06-17,5692,Groceries,227.98,3,Cash
+2023-06-28,2539,Clothing,422.46,2,UPI
+2023-05-15,4485,Furniture,319.75,5,UPI
+2023-12-22,9723,Electronics,252.97,2,Wallet
+2023-01-13,4140,Toys,492.86,2,UPI
+2023-03-28,5562,Groceries,414.22,2,Cash
+2023-05-11,8303,Groceries,178.23,2,UPI
+2023-04-10,6440,Electronics,480.06,2,Debit Card
+2023-09-15,7146,Electronics,464.99,3,Cash
+2023-04-06,1119,Toys,224.84,2,Cash
+2023-08-16,1972,Clothing,495.27,1,Debit Card
+2023-11-21,9022,Groceries,494.02,2,UPI
+2023-09-04,5312,Clothing,226.82,1,UPI
+2023-11-14,1050,Toys,112.85,2,Wallet
+2023-11-22,4746,Clothing,176.68,3,Credit Card
+2023-08-23,6178,Groceries,246.53,4,Debit Card
+2023-01-31,8752,Clothing,451.18,1,Debit Card
+2023-04-06,4295,Toys,52.43,3,Credit Card
+2023-04-09,6662,Clothing,265.87,3,Cash
+2023-11-29,2781,Clothing,211.37,4,Credit Card
+2023-06-12,4659,Toys,404.07,1,Wallet
+2023-01-17,4442,Electronics,370.91,5,Wallet
+2023-04-14,3285,Furniture,278.32,2,Debit Card
+2023-07-23,8301,Electronics,212.57,4,Debit Card
+2023-04-23,1845,Toys,413.73,2,UPI
+2023-03-23,2775,Furniture,190.61,5,Wallet
+2023-08-26,5237,Groceries,316.37,2,Cash
+2023-02-26,5500,Furniture,245.36,4,UPI
+2023-08-09,6599,Groceries,443.95,5,Credit Card
+2023-06-05,8842,Groceries,257.23,4,Credit Card
+2023-04-22,7980,Clothing,175.68,4,Debit Card
+2023-03-21,9154,Furniture,41.19,4,Cash
+2023-10-10,6358,Electronics,394.63,4,Credit Card
+2023-04-29,6651,Electronics,207.08,1,Credit Card
+2023-07-09,5436,Groceries,38.85,4,Credit Card
+2023-04-10,7134,Furniture,368.48,4,Wallet
+2023-03-30,4297,Furniture,240.75,2,Debit Card
+2023-07-07,8163,Furniture,385.81,1,Credit Card
+2023-08-02,2375,Electronics,351.69,3,UPI
+2023-11-30,6248,Electronics,399.04,1,Debit Card
+2023-01-05,1309,Furniture,372.66,5,Debit Card
+2023-01-11,8087,Electronics,90.62,5,Credit Card
+2023-11-12,4494,Clothing,39.38,4,Debit Card
+2023-10-15,2347,Clothing,453.36,2,Cash
+2023-09-08,3520,Electronics,89.12,4,Wallet
+2023-07-18,6286,Groceries,281.04,4,Cash
+2023-06-29,8792,Groceries,114.31,2,Cash
+2023-04-09,2991,Furniture,141.8,3,Debit Card
+2023-10-22,8991,Toys,68.59,5,Debit Card
+2023-07-24,7725,Groceries,434.26,3,Wallet
+2023-10-29,8211,Electronics,361.26,1,Debit Card
+2023-06-29,7245,Toys,220.38,4,Wallet
+2023-01-29,1620,Furniture,289.18,4,Credit Card
+2023-07-18,7240,Electronics,63.44,1,Credit Card
+2023-05-12,7770,Furniture,303.96,4,UPI
+2023-03-15,7775,Groceries,280.47,3,Credit Card
+2023-12-06,7926,Toys,24.08,3,Cash
+2023-07-27,3015,Toys,106.25,3,Wallet
+2023-10-26,6356,Furniture,92.16,2,Wallet
+2023-04-18,2290,Electronics,421.22,2,Wallet
+2023-11-10,3681,Clothing,132.16,4,Cash
+2023-02-10,3160,Toys,249.2,5,UPI
+2023-10-12,9098,Electronics,327.69,3,Credit Card
+2023-09-19,1422,Groceries,380.3,2,Credit Card
+2023-05-27,6535,Electronics,424.85,1,Credit Card
